@@ -3,8 +3,7 @@ int a[10],book[10],n,num;//Global Varaibles
 void dfs(int step)
 {  
 	int i;
-	if(step==n+1)// Facing the n+1th box,that 
-		//means prior n boxes are filled
+	if(step==n+1)// Facing the n+1th box,that means prior n boxes are filled
 	{//Output an arrangement
 		for(i=1;i<=n;i++)
 		{
