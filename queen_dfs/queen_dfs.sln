@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "queen_dfs", "queen_dfs\queen_dfs.vcproj", "{6D03F09F-407D-444A-BEE1-C8B3BB4D387A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8_queen_dfs", "8_queen_dfs\8_queen_dfs.vcproj", "{E593041A-D1DF-4E39-B8A3-8E14AACB3458}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D03F09F-407D-444A-BEE1-C8B3BB4D387A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6D03F09F-407D-444A-BEE1-C8B3BB4D387A}.Debug|Win32.Build.0 = Debug|Win32
+		{6D03F09F-407D-444A-BEE1-C8B3BB4D387A}.Release|Win32.ActiveCfg = Release|Win32
+		{6D03F09F-407D-444A-BEE1-C8B3BB4D387A}.Release|Win32.Build.0 = Release|Win32
+		{E593041A-D1DF-4E39-B8A3-8E14AACB3458}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E593041A-D1DF-4E39-B8A3-8E14AACB3458}.Debug|Win32.Build.0 = Debug|Win32
+		{E593041A-D1DF-4E39-B8A3-8E14AACB3458}.Release|Win32.ActiveCfg = Release|Win32
+		{E593041A-D1DF-4E39-B8A3-8E14AACB3458}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
